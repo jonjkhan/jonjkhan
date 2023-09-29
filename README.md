@@ -13,7 +13,7 @@ with a passion for coding and problem-solving. This repository showcases some of
 1. **live spelling checker**: 
    - **Description**: This project uses Python and some libraries that to let the user know if they have spelled something wrong.
                       Looking to use HTML, CSS, and Flask to create a full website and fully flesh out the project!
-   - **GitHub Repository**: [Link to the project repository]
+   - **GitHub Repository**: https://github.com/jonjkhan/spell-checker/blob/main/spellcheckv1.py
    
 2. **Project Name**: [Provide a brief description]
    - **Description**: [A short description of the project]
