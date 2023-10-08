@@ -16,7 +16,7 @@ with a passion for coding and problem-solving. This repository showcases some of
    - **GitHub Repository**: https://github.com/jonjkhan/spell-checker/blob/main/spellcheckv1.py
    
 2. **Predicting and Visualizing Wildfires**: This project used Python and some libraries such as pandas, seaborn, and folium. The project involved the analysis of wildfire data in the state of New York. The dataset was cleaned to remove unnecessary columns, and the analysis was focused on the year 2019. The main objectives were to identify the primary causes of wildfires, map their locations, and create a heatmap for visualizing wildfire distribution.
-   - **GitHub Repository**: [Link to the project repository]
+
 
 ## Contact
 - **LinkedIn**: https://www.linkedin.com/in/jonathan-khan-b9a304242/
