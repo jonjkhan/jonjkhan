@@ -6,7 +6,7 @@ with a passion for coding and problem-solving. This repository showcases some of
 
 ## Skills
 - **Programming Languages:** Python (Proficient)
-- **Development Tools:** Wing, PyCharm
+- **Development Tools:** Wing, PyCharm, Vscode
 - **Areas of Interest:** Software Development, Software engineering, Web Development
 
 ## Projects
