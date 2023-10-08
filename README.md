@@ -11,12 +11,11 @@ with a passion for coding and problem-solving. This repository showcases some of
 
 ## Projects
 1. **live spelling checker**: 
-   - **Description**: This project uses Python and some libraries that to let the user know if they have spelled something wrong.
+   - **Description**: This project uses Python and some libraries to let the user know if they have spelled something wrong.
                       Looking to use HTML, CSS, and Flask to create a full website and fully flesh out the project!
    - **GitHub Repository**: https://github.com/jonjkhan/spell-checker/blob/main/spellcheckv1.py
    
-2. **Project Name**: [Provide a brief description]
-   - **Description**: [A short description of the project]
+2. **Predicting and Visualizing Wildfires**: This project used Python and some libraries such as pandas, seaborn, and folium. The project involved the analysis of wildfire data in the state of New York. The dataset was cleaned to remove unnecessary columns, and the analysis was focused on the year 2019. The main objectives were to identify the primary causes of wildfires, map their locations, and create a heatmap for visualizing wildfire distribution.
    - **GitHub Repository**: [Link to the project repository]
 
 ## Contact
